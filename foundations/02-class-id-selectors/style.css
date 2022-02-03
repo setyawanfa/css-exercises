@@ -1,0 +1,21 @@
+.odd{
+    background-color: pink;
+    font: Verdana, sans-serif
+
+}
+
+#Special{
+    font-size: 24px;
+
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth{
+    background-color: green;
+    font: 24px;
+    font-weight: bold;
+}
